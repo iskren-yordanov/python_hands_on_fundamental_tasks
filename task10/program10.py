@@ -9,14 +9,16 @@ def main():
     wait = WaitActivity(5)
     copy = CopyActivity(src, sink)
 
-    #src.Dataset.get_data()
-    #src.Dataset.preview()
+    src.Dataset.get_data()
+    src.Dataset.show_schema()
+    src.Dataset.preview()
 
     pl = Pipeline()
-    pl.add_activity(wait)
+    #pl.add_activity(wait)
     pl.add_activity(copy)
 
     pl.execute()
 
 if __name__ == "__main__":
     main()
+    #test()

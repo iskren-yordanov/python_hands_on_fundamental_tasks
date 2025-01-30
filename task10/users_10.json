@@ -1,0 +1,80 @@
+[
+    {
+        "age": 78,
+        "city": "Austin",
+        "friends": [
+            {
+                "hobbies": [
+                    "Watching Sports",
+                    "Reading",
+                    "Skiing & Snowboarding"
+                ],
+                "name": "Michelle"
+            },
+            {
+                "hobbies": [
+                    "Traveling",
+                    "Video Games"
+                ],
+                "name": "Robert"
+            }
+        ],
+        "id": 0,
+        "name": "Elijah"
+    },
+    {
+        "age": 97,
+        "city": "Boston",
+        "friends": [
+            {
+                "hobbies": [
+                    "Watching Sports",
+                    "Skiing & Snowboarding",
+                    "Collecting"
+                ],
+                "name": "Oliver"
+            },
+            {
+                "hobbies": [
+                    "Running",
+                    "Music",
+                    "Woodworking"
+                ],
+                "name": "Olivia"
+            },
+            {
+                "hobbies": [
+                    "Woodworking",
+                    "Calligraphy",
+                    "Genealogy"
+                ],
+                "name": "Robert"
+            },
+            {
+                "hobbies": [
+                    "Walking",
+                    "Church Activities"
+                ],
+                "name": "Ava"
+            },
+            {
+                "hobbies": [
+                    "Music",
+                    "Church Activities"
+                ],
+                "name": "Michael"
+            },
+            {
+                "hobbies": [
+                    "Martial Arts",
+                    "Painting",
+                    "Jewelry Making"
+                ],
+                "name": "Michael"
+            }
+        ],
+        "id": 1,
+        "name": "Noah"
+    }
+    
+]
