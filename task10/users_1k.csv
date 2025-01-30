@@ -1,4 +1,4 @@
-id,name,city,age,friend_name,hobbies
+id,name,city,age,friend_name,friend_hobbies
 0,Elijah,Austin,78,Michelle,"Watching Sports, Reading, Skiing & Snowboarding"
 0,Elijah,Austin,78,Robert,"Traveling, Video Games"
 1,Noah,Boston,97,Oliver,"Watching Sports, Skiing & Snowboarding, Collecting"
